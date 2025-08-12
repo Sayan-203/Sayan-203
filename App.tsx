@@ -1,1 +1,0 @@
-![Portfolio Preview](preview.gif)
